@@ -2,4 +2,5 @@
     <string name="app_name">Meme Share</string>
     <string name="next">Next</string>
     <string name="share">Share</string>
+    <string name="previous">Previous</string>
 </resources>
